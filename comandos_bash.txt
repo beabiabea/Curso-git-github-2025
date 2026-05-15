@@ -1,0 +1,3 @@
+ls inicio
+cd desktop muda
+pwd onde está
