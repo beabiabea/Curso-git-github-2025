@@ -1,3 +1,5 @@
 ls inicio
 cd desktop muda
 pwd onde está
+cat exibe conteúdo
+rm remove arquivo
