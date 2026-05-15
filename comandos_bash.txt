@@ -3,3 +3,4 @@ cd desktop muda
 pwd onde está
 cat exibe conteúdo
 rm remove arquivo
+rm -rf exclui de maneira permanente
