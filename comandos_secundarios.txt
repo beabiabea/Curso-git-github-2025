@@ -1,3 +1,6 @@
 comandos secundários git
 - primeiro comando
 - segundo comando
+
+#comandos mais genéricos
+-comandos estranhos
