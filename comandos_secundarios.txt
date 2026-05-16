@@ -4,3 +4,8 @@ comandos secundários git
 
 #comandos mais genéricos
 -comandos estranhos
+
+#mais comandos 
+çççss
+asssss
+sssssss
