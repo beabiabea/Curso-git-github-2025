@@ -1,6 +1,8 @@
 git init . - cria um repo git na pasta atual
+
 hit status - status do trabalho 
-git commit -m - faz commit  do que
+
+git commit -m - faz commit do que
 git add - adiciona arquivo
 git log - histórico de commit
-fluxograma git diretório
+fluxograma git diretório.
